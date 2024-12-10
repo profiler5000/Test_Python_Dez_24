@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "dhanush.pygame-snips"
+        "dhanush.pygame-snips",
+        "ms-vscode.remote-repositories"
     ]
 }
