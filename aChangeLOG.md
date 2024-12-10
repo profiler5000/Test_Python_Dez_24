@@ -4,7 +4,7 @@
 
 #### Added
 
-* requirements.txt and projekt structure files
+* requirements.txt and project structure files
 
 #### Changed
 
